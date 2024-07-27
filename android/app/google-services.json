@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485525676846",
+    "project_id": "synkrama-pro",
+    "storage_bucket": "synkrama-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485525676846:android:5a3959dcc2b43896ad50bf",
+        "android_client_info": {
+          "package_name": "com.example.synkrama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtyF2pXhvIz1lRnc6EfnFOzhXMXTLBoac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
